@@ -1,0 +1,18 @@
+/*
+Theme Name: Restaurant Chez Anthon
+Theme URI: http://localhost/wordpress
+Author: Sébastien GROSS
+Description: Thème pour le Restaurant Chez Anthon
+Version: 1.0
+*/
+
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#image-accueil{
+width:100%; height:auto; display:block;
+              clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
+              border-radius: 20px;
+}

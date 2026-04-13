@@ -1,0 +1,1 @@
+[05-Feb-2026 18:01:09 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est <strong>obsolète</strong> depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6131
